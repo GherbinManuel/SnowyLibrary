@@ -1,0 +1,11 @@
+{
+  "name": "com.snowylibrary.startingsystems",
+  "displayName": "My starting common system",
+  "description": "Game State Managenet, UI Managenet, Sound Managenet, Event System, Save System, Pool System",
+  "version": "1.0.0",
+  "unity": "2022.1",
+  "dependencies": {},
+  "author": {
+    "name": "SnowyProgrammer"
+  }
+}
